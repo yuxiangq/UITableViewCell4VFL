@@ -1,19 +1,19 @@
 //
-//  UITableViewCell4VFLTests.m
-//  UITableViewCell4VFLTests
+//  CustomCellWithVFLDemoTests.m
+//  CustomCellWithVFLDemoTests
 //
-//  Created by Qin Yuxiang on 2/1/15.
+//  Created by Qin Yuxiang on 4/6/15.
 //  Copyright (c) 2015 YuxiangQ. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface UITableViewCell4VFLTests : XCTestCase
+@interface CustomCellWithVFLDemoTests : XCTestCase
 
 @end
 
-@implementation UITableViewCell4VFLTests
+@implementation CustomCellWithVFLDemoTests
 
 - (void)setUp {
     [super setUp];

@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  UITableViewCell4VFL
+//  CustomCellWithVFLDemo
 //
-//  Created by Qin Yuxiang on 2/1/15.
+//  Created by Qin Yuxiang on 4/6/15.
 //  Copyright (c) 2015 YuxiangQ. All rights reserved.
 //
 

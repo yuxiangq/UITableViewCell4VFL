@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:UITableViewCell4VFL.xcodeproj">
+      location = "self:CustomCellWithVFLDemo.xcodeproj">
    </FileRef>
 </Workspace>
