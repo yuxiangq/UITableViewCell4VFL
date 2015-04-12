@@ -11,7 +11,14 @@
 
 @interface ViewController ()
 
+/**
+ *  原型cell
+ */
 @property (strong,nonatomic) CustomCell *prototypeCustomCell;
+
+/**
+ *  数据源
+ */
 @property (strong,nonatomic) NSArray *dataArray;
 
 @end
